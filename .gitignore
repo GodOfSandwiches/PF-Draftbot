@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# node Modules
+node_modules/
+
+# config (contains token not good)
+config.json
+
